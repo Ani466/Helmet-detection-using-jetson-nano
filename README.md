@@ -172,7 +172,13 @@ source '0' for webcam
 !python detect.py --weights best.pt --img 416 --conf 0.1 --source 0
 ```
 ## Demo
-Insert gif or link to demo
+
+
+
+https://user-images.githubusercontent.com/84638162/151307504-87c75288-9c57-43bf-aae1-4ee3ad9f45fe.mp4
+
+
+
 ## Advantages
 
     • Helmet detection system will be of great help in minimizing the injuries that occur due to an accident.
