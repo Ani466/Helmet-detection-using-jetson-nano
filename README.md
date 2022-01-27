@@ -45,8 +45,9 @@ Objectives
     • In our model we have used JetPack version 4.6 which is the latest production release and supports all Jetson modules.
 ## Jetson Nano 2gb
 
-![Jetson Nano](https://via.placeholder.c![IMG_20220125_115056](https://user-images.githubusercontent.com/84638162/151305442-5e30b9cf-b1c1-461c-8d05-43d28c983723.jpg)
-om/468x300?text=App+Screenshot+Here)
+![Jetson Nano](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+![IMG_20220125_115056](https://user-images.githubusercontent.com/84638162/151306323-a6de58a7-9211-48a3-94fc-27df9a01ee6c.jpg)
 
 
 ## Proposed System
